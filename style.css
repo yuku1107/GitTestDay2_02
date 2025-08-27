@@ -101,7 +101,7 @@ nav a:hover::before {
     box-shadow: inset 0 -10px 10px rgba(0, 0, 0, 0.1);
     position: relative;
     overflow: hidden;
-    border-bottom: 8px solid var(--coin-gold);
+    border-bottom: 8px solid var(--yoshi-green);
 }
 
 .hero::before, .hero::after {
