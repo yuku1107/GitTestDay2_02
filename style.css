@@ -96,12 +96,12 @@ nav a:hover::before {
 
 /* Hero Section */
 .hero {
-    background-color: var(--mario-red);
+    background-color: var(--sky-blue);
     padding: 80px 20px;
     box-shadow: inset 0 -10px 10px rgba(0, 0, 0, 0.1);
     position: relative;
     overflow: hidden;
-    border-bottom: 8px solid var(--yoshi-green);
+    border-bottom: 8px solid var(--mario-red);
 }
 
 .hero::before, .hero::after {
